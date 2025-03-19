@@ -1,2 +1,2 @@
-# Operating-systems-and-environments
-Practical and lecture assignments
+# Данный репозиторий предназначен
+## Для практических, самостоятельных работ по паре Операционные системы и среды
